@@ -1,0 +1,3 @@
+function doesThisWork () {
+  console.log('It does!');
+}
